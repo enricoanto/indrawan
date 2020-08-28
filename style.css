@@ -1,0 +1,76 @@
+body {
+    margin: 0;  
+    background-color: #cd1934;
+}
+.text-home {
+    color:  #c7aa3c;
+    text-align: center;
+    font-size: 35px;
+}
+.home-logo {
+    position: relative;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    margin-bottom: auto;
+}
+.logo {
+    height: 40px
+}
+.score {
+    width: 35px;
+    height: 35px;
+    font-size: 35px;
+    background: pink;
+    text-align: center;
+}
+.text-club {
+    color:  #c7aa3c;
+    text-align: center;
+    margin: auto;
+}
+div {
+    display: block;
+    margin-right: 20%;
+    margin-left: 40%
+}
+.chelsea{
+    display: block;
+    margin-right: 100px;
+    margin-left: 552px
+}
+.man-utd {
+    display: block;
+    margin-right: 100px;
+    margin-left: 481px
+}
+.tottenham{
+    display: block;
+    margin-right: 100px;
+    margin-left: 535px
+}
+.man-city {
+    display: block;
+    margin-right: 100px;
+    margin-left: 497px
+}
+.arsenal {
+    display: block;
+    margin-right: 100px;
+    margin-left: 553px
+}
+.play-button {
+    color:  #050400;
+    text-align: center;
+    font-size: 35px;
+    margin-left: 650px;
+    border-color: #c7aa3c;
+}
+.question {
+    color:  #c7aa3c;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 170px;
+}
